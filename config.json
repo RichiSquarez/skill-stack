@@ -1,0 +1,13 @@
+{
+  "paths": [
+    "~/.claude/skills",
+    "~/.codex/skills",
+    "~/.agents/skills",
+    "~/.claude/plugins",
+    "./.claude/skills",
+    "./.agents/skills",
+    "./.codex/skills"
+  ],
+  "top": 8,
+  "desc_chars": 160
+}
